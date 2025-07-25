@@ -24,8 +24,3 @@ Use the following credentials to log in as admin:
 
 ---
 
-## 🛠️ Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/GalacticBits404/flutter_application_1.git
