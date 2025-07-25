@@ -1,16 +1,31 @@
-# flutter_application_1
+# 🚀 Flutter Certificate Generator App
 
-A new Flutter project.
+A Virtual Internship & Certificate Generator built using Flutter and Firebase. This app allows admins to upload, generate, verify, and share certificates securely through Firebase services.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🔐 Admin Login Credentials
 
-A few resources to get you started if this is your first Flutter project:
+Use the following credentials to log in as admin:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Email:** `admin@example.com`
+- **Password:** `admin123`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Features
+
+- 📄 Upload certificates (PDF/Image)
+- 🔒 Secure admin login with Firebase Auth
+- 🔍 Verify certificates using ID or QR code
+- 📦 Firebase Storage & Firestore integration
+- 📧 Email dispatch with certificate link & QR code
+- 📱 Cross-platform support (Web, Android, Windows)
+
+---
+
+## 🛠️ Getting Started
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/GalacticBits404/flutter_application_1.git
